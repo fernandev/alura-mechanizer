@@ -2,7 +2,7 @@
   "name": "alura-mechanizer",
   "version": "1.0.0",
   "description": "This is a project inteded to exploit Alura's vulnerabilities in order to retrieve new certifications, or Alura's courses information and downloadable content.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

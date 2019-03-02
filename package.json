@@ -9,6 +9,7 @@
   "author": "rnarcos",
   "license": "ISC",
   "dependencies": {
+    "download": "^7.1.0",
     "fs": "0.0.1-security",
     "puppeteer": "^1.9.0"
   }
